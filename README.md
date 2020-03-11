@@ -1,13 +1,6 @@
 # Feedback-form
 
-NodeJS
-  fs
-  sqlite3
-  body-parser
-  express
-  jsonexport
-HTML
-CSS
+
 
 
 use " npm install "
@@ -22,3 +15,12 @@ Screenshot:
 
 ![Screenshot )](https://user-images.githubusercontent.com/32616992/76411260-70272500-63b7-11ea-8a7e-2dcea3d4a262.png)
 
+
+NodeJS
+  [fs.
+  sqlite3,
+  body-parser,
+  express,
+  jsonexport]
+HTML
+CSS
