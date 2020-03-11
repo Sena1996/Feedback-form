@@ -17,7 +17,7 @@ Screenshot:
 
 
 NodeJS
-  [fs.
+  [fs,
   sqlite3,
   body-parser,
   express,
